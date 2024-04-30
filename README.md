@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tierra723
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...Full Stack Development
-- 💞️ I’m looking to collaborate on ... front & back end developmetn
+- 💞️ I’m looking to collaborate on ... front & back end development
 - 📫 How to reach me ...Tierraalexander723@gmail.com 
 
 <!---
